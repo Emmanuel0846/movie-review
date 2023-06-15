@@ -110,7 +110,7 @@ header{
 }
 
 .before::before{
-    content: 'Latest Netflix Movies';
+    content: 'Latest Movies On EmmanuelTV';
     background-color: black;
     width: 100%;
     text-align: center;
